@@ -1,0 +1,20 @@
+{
+  "name": "CleanNodeAPI",
+  "version": "1.0.0",
+  "description": "A head's on immersion on clean architecture and good programming principles using Node, Express, MongoDB and Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicardoMorato/CleanNodeAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RicardoMorato/CleanNodeAPI/issues"
+  },
+  "homepage": "https://github.com/RicardoMorato/CleanNodeAPI#readme"
+}
