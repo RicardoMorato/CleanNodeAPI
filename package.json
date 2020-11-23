@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/RicardoMorato/CleanNodeAPI/issues"
   },
-  "homepage": "https://github.com/RicardoMorato/CleanNodeAPI#readme"
+  "homepage": "https://github.com/RicardoMorato/CleanNodeAPI#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
