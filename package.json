@@ -1,5 +1,5 @@
 {
-  "name": "CleanNodeAPI",
+  "name": "clean-node-api",
   "version": "1.0.0",
   "description": "A head's on immersion on clean architecture and good programming principles using Node, Express, MongoDB and Typescript",
   "main": "index.js",
