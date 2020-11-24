@@ -4,7 +4,7 @@
   "description": "A head's on immersion on clean architecture and good programming principles using Node, Express, MongoDB and Typescript",
   "main": "index.js",
   "scripts": {
-    "test": "jest --passWithNoTests",
+    "test": "jest --passWithNoTests --watch",
     "test:staged": "jest --passWithNoTests"
   },
   "repository": {
